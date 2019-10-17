@@ -1,0 +1,35 @@
+forbidden_extensions:
+- ".a"
+
+- ".bin"
+- ".bmp"
+
+- ".cfg"
+- ".class"
+- ".config"
+- ".css"
+
+- ".exe"
+
+- ".fxml"
+
+- ".gif"
+
+- ".htaccess"
+- ".htm"
+- ".html"
+
+- ".ini"
+
+- ".jar"
+- ".jpeg"
+- ".jpg"
+
+- ".msi"
+
+- ".o"
+
+- ".sass"
+- ".scss"
+
+- ".xhtml"
