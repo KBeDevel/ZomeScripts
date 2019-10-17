@@ -1,0 +1,10 @@
+.vscode
+.log
+.idea
+.desktop
+.directory
+.vscode
+.well-known
+.DS_Store
+.AppleDouble
+.LSOverride
